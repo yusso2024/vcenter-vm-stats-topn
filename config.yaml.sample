@@ -1,0 +1,5 @@
+vcenter_host: "your-vcenter-host"
+vcenter_user: "administrator@vsphere.local"
+vcenter_password: "your-password"
+vcenter_port: 443
+insecure: true
